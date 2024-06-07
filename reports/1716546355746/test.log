@@ -1,0 +1,30 @@
+[2024-05-24 10:25:55] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-24 10:25:55] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-24 10:26:01] [1] [INFO] Starting driver session...
+[2024-05-24 10:26:10] [1] [INFO] Driver session started.
+[2024-05-24 10:26:11] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-24 10:26:15] [1] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-24 10:26:15] [1] [INFO] Element clicked
+[2024-05-24 10:26:21] [1] [INFO] Element 'viewCartLink' is clicked.
+[2024-05-24 10:26:22] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-24 10:26:22] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-24 10:26:23] [1] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-24 10:26:23] [1] [INFO] Element clicked
+[2024-05-24 10:26:27] [1] [INFO] Element 'viewCartLink' is clicked.
+[2024-05-24 10:26:27] [1] [INFO] returned first but found 2 elements by locator: By.cssSelector: td[class='product-name'] a
+[2024-05-24 10:26:27] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-24 10:26:38] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-24 10:26:39] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-24 10:26:39] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-24 10:26:40] [1] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-24 10:26:40] [1] [INFO] Element clicked
+[2024-05-24 10:26:43] [1] [INFO] Element 'viewCartLink' is clicked.
+[2024-05-24 10:26:45] [1] [INFO] Element 'proceedToCheckOutBtnElement' is clicked.
+[2024-05-24 10:26:45] [1] [INFO] Keys 'demo' are sent to element 'billingFirstnameFld'.
+[2024-05-24 10:26:46] [1] [INFO] Keys 'user' are sent to element 'billingLastNameFld'.
+[2024-05-24 10:26:46] [1] [INFO] Keys '6300 Spring Creek' are sent to element 'billingAddressOneFld'.
+[2024-05-24 10:26:47] [1] [INFO] Keys 'Plano' are sent to element 'billingCityFld'.
+[2024-05-24 10:26:47] [1] [INFO] Keys '75024' are sent to element 'billingZipFld'.
+[2024-05-24 10:26:47] [1] [INFO] Keys 'ak@gmail.com' are sent to element 'billingEmailFld'.
+[2024-05-24 10:26:48] [1] [INFO] Element 'placeOrderBtn' is clicked.
+[2024-05-24 10:26:50] [1] [WARN] Reporting disabled: using no op test run registrar

@@ -1,0 +1,42 @@
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-16 03:06:19] [1] [INFO] [TestNG] Running:
+  C:\Users\amol.kumbhare\AppData\Local\Temp\testng-eclipse--404838141\testng-customsuite.xml
+
+[2024-04-16 03:06:19] [1] [INFO] [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[2024-04-16 03:06:20] [1] [WARN] The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[2024-04-16 03:06:22] [1] [INFO] [TestNG] Time taken by org.testng.internal.ExitCodeListener@6842c101: 0 ms
+[2024-04-16 03:06:22] [1] [INFO] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1373e3ee: 50 ms
+[2024-04-16 03:06:22] [1] [INFO] [TestNG] Time taken by org.testng.reporters.jq.Main@2d206a71: 50 ms
+[2024-04-16 03:06:22] [1] [INFO] [TestNG] Time taken by org.testng.reporters.FailedReporter@37e7c4cc: 0 ms
+[2024-04-16 03:06:22] [1] [INFO] [TestNG] Time taken by org.testng.reporters.XMLReporter@477523ba: 7 ms
+[2024-04-16 03:06:22] [1] [INFO] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@48499739: 4 ms
+[2024-04-16 03:06:22] [1] [INFO] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@723742b2: 0 ms

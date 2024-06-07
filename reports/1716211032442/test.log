@@ -1,0 +1,18 @@
+[2024-05-20 01:17:12] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-20 01:17:12] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-20 01:17:17] [1] [INFO] Starting driver session...
+[2024-05-20 01:17:21] [1] [INFO] Driver session started.
+[2024-05-20 01:17:21] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-20 01:17:27] [1] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-20 01:17:27] [1] [INFO] Element clicked
+[2024-05-20 01:17:33] [1] [ERROR] FAIL: click - waitCondition for element 'viewCartLink (By.cssSelector: a[title='View cart'])' not satisfied!
+[2024-05-20 01:17:33] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-20 01:17:33] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-20 01:17:34] [1] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-20 01:17:34] [1] [INFO] Element clicked
+[2024-05-20 01:17:38] [1] [INFO] Element 'viewCartLink' is clicked.
+[2024-05-20 01:17:38] [1] [INFO] returned first but found 2 elements by locator: By.cssSelector: td[class='product-name'] a
+[2024-05-20 01:17:39] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-20 01:17:47] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-20 01:17:47] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-20 01:17:47] [1] [WARN] Reporting disabled: using no op test run registrar

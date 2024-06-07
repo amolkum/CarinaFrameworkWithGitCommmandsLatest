@@ -1,0 +1,67 @@
+[2024-04-19 07:52:26] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-19 07:52:26] [1] [INFO] [TestNG] Running:
+  C:\Users\amol.kumbhare\AppData\Local\Temp\testng-eclipse--1033895900\testng-customsuite.xml
+
+[2024-04-19 07:52:26] [1] [INFO] [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+[2024-04-19 07:52:33] [1] [INFO] Starting driver session...
+[2024-04-19 07:52:39] [1] [INFO] Driver session started.
+[2024-04-19 07:52:40] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-19 07:52:45] [1] [INFO] PASS: element 'storeLinkElement' is clicked.
+[2024-04-19 07:52:45] [1] [INFO] Element clicked
+[2024-04-19 07:52:48] [1] [INFO] PASS: element 'viewCartLink' is clicked.
+[2024-04-19 07:52:48] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-04-19 07:52:48] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-19 07:52:49] [1] [INFO] PASS: element 'storeLinkElement' is clicked.
+[2024-04-19 07:52:49] [1] [INFO] Element clicked
+[2024-04-19 07:52:51] [1] [INFO] PASS: element 'viewCartLink' is clicked.
+[2024-04-19 07:52:52] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-04-19 07:52:53] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-04-19 07:52:53] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-19 07:52:54] [1] [INFO] PASS: element 'storeLinkElement' is clicked.
+[2024-04-19 07:52:54] [1] [INFO] Element clicked
+[2024-04-19 07:52:57] [1] [INFO] PASS: element 'viewCartLink' is clicked.
+[2024-04-19 07:53:00] [1] [INFO] PASS: element 'proceedToCheckOutBtnElement' is clicked.
+[2024-04-19 07:53:00] [1] [INFO] PASS: keys 'demo' are sent to element 'billingFirstnameFld'.
+[2024-04-19 07:53:01] [1] [INFO] PASS: keys 'user' are sent to element 'billingLastNameFld'.
+[2024-04-19 07:53:01] [1] [INFO] PASS: keys '6300 Spring Creek' are sent to element 'billingAddressOneFld'.
+[2024-04-19 07:53:02] [1] [INFO] PASS: keys 'Plano' are sent to element 'billingCityFld'.
+[2024-04-19 07:53:02] [1] [INFO] PASS: keys '75024' are sent to element 'billingZipFld'.
+[2024-04-19 07:53:03] [1] [INFO] PASS: keys 'ak@gmail.com' are sent to element 'billingEmailFld'.
+[2024-04-19 07:53:04] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-04-19 07:53:05] [1] [INFO] [TestNG] Time taken by org.testng.internal.ExitCodeListener@684ad81c: 0 ms
+[2024-04-19 07:53:05] [1] [INFO] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@75c4cd19: 74 ms
+[2024-04-19 07:53:05] [1] [INFO] [TestNG] Time taken by org.testng.reporters.jq.Main@5ceca60: 87 ms
+[2024-04-19 07:53:05] [1] [INFO] [TestNG] Time taken by org.testng.reporters.FailedReporter@4beea618: 18 ms
+[2024-04-19 07:53:05] [1] [INFO] [TestNG] Time taken by org.testng.reporters.XMLReporter@16c5e7ad: 8 ms
+[2024-04-19 07:53:05] [1] [INFO] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7465cdb6: 9 ms
+[2024-04-19 07:53:05] [1] [INFO] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@70d444ed: 11 ms

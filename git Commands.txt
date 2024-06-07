@@ -1,0 +1,9 @@
+git status
+git remote -v-
+$ git remote -v
+origin  ssh://git@https://github.com/BJC-Strategy-and-Innovation/bjc-org-test-fr
+amework.git (fetch)
+origin  ssh://git@https://github.com/BJC-Strategy-and-Innovation/bjc-org-test-fr
+amework.git (push)
+
+git remote set-url origin https://github.com/BJC-Strategy-and-Innovation/bjc-org-test-framework.git

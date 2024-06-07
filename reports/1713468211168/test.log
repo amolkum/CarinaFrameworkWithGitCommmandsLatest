@@ -1,0 +1,63 @@
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-18 07:23:31] [1] [INFO] [TestNG] Running:
+  C:\Users\amol.kumbhare\AppData\Local\Temp\testng-eclipse--598070115\testng-customsuite.xml
+
+[2024-04-18 07:23:31] [1] [INFO] [Utils] DynamicGraphHelper.createDynamicGraph() took 19 ms.
+[2024-04-18 07:23:38] [1] [INFO] Starting driver session...
+[2024-04-18 07:23:42] [1] [INFO] Driver session started.
+[2024-04-18 07:23:42] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-18 07:23:45] [1] [INFO] PASS: element 'storeLinkElement' is clicked.
+[2024-04-18 07:23:45] [1] [INFO] Element clicked
+[2024-04-18 07:23:47] [1] [INFO] PASS: element 'viewCartLink' is clicked.
+[2024-04-18 07:23:48] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-18 07:23:48] [1] [INFO] PASS: element 'storeLinkElement' is clicked.
+[2024-04-18 07:23:48] [1] [INFO] Element clicked
+[2024-04-18 07:23:50] [1] [INFO] PASS: element 'viewCartLink' is clicked.
+[2024-04-18 07:23:51] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-18 07:23:51] [1] [INFO] PASS: element 'storeLinkElement' is clicked.
+[2024-04-18 07:23:51] [1] [INFO] Element clicked
+[2024-04-18 07:23:52] [1] [INFO] PASS: element 'viewCartLink' is clicked.
+[2024-04-18 07:23:54] [1] [INFO] PASS: element 'proceedToCheckOutBtnElement' is clicked.
+[2024-04-18 07:23:54] [1] [INFO] PASS: keys 'demo' are sent to element 'billingFirstnameFld'.
+[2024-04-18 07:23:55] [1] [INFO] PASS: keys 'user' are sent to element 'billingLastNameFld'.
+[2024-04-18 07:23:55] [1] [INFO] PASS: keys '6300 Spring Creek' are sent to element 'billingAddressOneFld'.
+[2024-04-18 07:23:55] [1] [INFO] PASS: keys 'Plano' are sent to element 'billingCityFld'.
+[2024-04-18 07:23:55] [1] [INFO] PASS: keys '75024' are sent to element 'billingZipFld'.
+[2024-04-18 07:23:56] [1] [INFO] PASS: keys 'ak@gmail.com' are sent to element 'billingEmailFld'.
+[2024-04-18 07:23:56] [1] [INFO] PASS: element 'placeOrderBtn' is clicked.
+[2024-04-18 07:23:58] [1] [INFO] [TestNG] Time taken by org.testng.internal.ExitCodeListener@6ef0e08f: 0 ms
+[2024-04-18 07:23:58] [1] [INFO] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7ebc78f1: 60 ms
+[2024-04-18 07:23:58] [1] [INFO] [TestNG] Time taken by org.testng.reporters.jq.Main@4911d84: 73 ms
+[2024-04-18 07:23:58] [1] [INFO] [TestNG] Time taken by org.testng.reporters.FailedReporter@74e72805: 20 ms
+[2024-04-18 07:23:58] [1] [INFO] [TestNG] Time taken by org.testng.reporters.XMLReporter@f9c0e80: 9 ms
+[2024-04-18 07:23:58] [1] [INFO] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@22b91d3c: 10 ms
+[2024-04-18 07:23:58] [1] [INFO] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@787b688a: 9 ms

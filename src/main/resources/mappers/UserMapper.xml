@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="utils.UserMapper">
+
+    <insert id="create" useGeneratedKeys="true" keyProperty="id">
+        <![CDATA[
+            INSERT INTO carinaframeworkdb.CUSTOMERS (CUSTOMER_ID, NAME, ADDRESS, CITY, STATE, ACCOUNT_TYPE,BALENCE)
+            VALUES (
+                35211708,
+				"AMOL",
+			    "Baner1",
+				"PUNE",
+				"MH",
+				"savings",
+				1000000
+            )
+        ]]>
+    </insert>
+
+    <sql id="getUser">
+        <![CDATA[
+            SELECT
+                U.CUSTOMER_ID AS CUSTOMER_ID,
+                U.NAME AS NAME,
+                U.ADDRESS AS ADDRESS,
+                U.CITY AS CITY,
+                U.STATE AS STATE,
+                U.ACCOUNT_TYPE AS ACCOUNT_TYPE,
+                U.BALENCE AS BALENCE,
+                UP.CUSTOMER_ID AS CUSTOMER_ID,
+                UP.ACCOUNT_ID AS ACCOUNT_ID
+              FROM
+                carinaframeworkdb.CUSTOMERS U
+            LEFT JOIN
+                carinaframeworkdb.CUSTOMERSACCOUNTS UP
+            ON
+                UP.CUSTOMER_ID = U.CUSTOMER_ID
+        ]]>
+    </sql>
+
+    <select id="findById" resultMap="UserResultMap">
+        <include refid="getUser" />
+        <![CDATA[
+            WHERE U.CUSTOMER_ID = 35211708;
+        ]]>
+    </select>
+
+    <select id="findByUserName" resultMap="UserResultMap">
+        <include refid="getUser" />
+        <![CDATA[
+            WHERE U.NAME = "AMOL";
+        ]]>
+    </select>
+
+    <update id="update">
+        <![CDATA[
+            UPDATE
+                carinaframeworkdb.CUSTOMERS
+        ]]>
+        <set>
+            <if test="null != name">
+                    <![CDATA[
+                      NAME  = "AMIT",
+                    ]]>
+            </if>
+            <if test="null != address">
+                    <![CDATA[
+                       ADDRESS= "VijayPark",
+                    ]]>
+            </if>
+            <if test="null != city">
+                    <![CDATA[
+                       CITY = "MUMBAI",
+                    ]]>
+            </if>
+            <if test="null != state">
+                    <![CDATA[
+                       STATE= "MH",  
+                    ]]>
+            </if>
+            <if test="null != account_type">
+                    <![CDATA[
+                       ACCOUNT_TYPE= "credit",
+                    ]]>
+            </if>
+             <if test="null != balence">
+                    <![CDATA[
+                       BALENCE= 1000000
+                    ]]>
+            </if>
+      </set>
+        <![CDATA[
+            WHERE
+                ID=35211708
+        ]]>
+    </update>
+
+    <delete id="delete">
+        <![CDATA[
+            DELETE FROM carinaframeworkdb.CUSTOMERS
+            WHERE CUSTOMER_ID = 35211705
+        ]]>
+    </delete>
+
+    <resultMap type="utils.User"
+        id="UserResultMap" autoMapping="false">
+        <id column="CUSTOMER_ID" property="customer_id" />
+        <result column="NAME" property="name" />
+        <result column="ADDRESS" property="address" />
+        <result column="CITY" property="city" />
+        <result column="STATE" property="state" />
+        <result column="ACCOUNT_TYPE" property="account_type" />
+        <result column="BALENCE" property="balence" />
+        <collection property="preferences"
+            ofType="utils.UserPrefernce"
+            resultMap="utils.UserPreferenceMapper.UserPreferenceResultMap" />
+    </resultMap>
+
+</mapper>

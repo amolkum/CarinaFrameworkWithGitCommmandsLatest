@@ -1,0 +1,52 @@
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:28:01] [1] [INFO] [TestNG] Running:
+  C:\Users\amol.kumbhare\AppData\Local\Temp\testng-eclipse-1833027465\testng-customsuite.xml
+
+[2024-04-08 02:28:01] [1] [INFO] [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+[2024-04-08 02:28:06] [1] [INFO] Starting driver session...
+[2024-04-08 02:28:10] [1] [INFO] Driver session started.
+[2024-04-08 02:28:10] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-08 02:28:14] [1] [INFO] PASS: element 'storeLinkElement' is clicked.
+[2024-04-08 02:28:14] [1] [INFO] Element clicked
+[2024-04-08 02:28:18] [1] [INFO] PASS: element 'viewCartLink' is clicked.
+[2024-04-08 02:28:18] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-08 02:28:19] [1] [INFO] PASS: element 'storeLinkElement' is clicked.
+[2024-04-08 02:28:19] [1] [INFO] Element clicked
+[2024-04-08 02:28:21] [1] [INFO] PASS: element 'viewCartLink' is clicked.
+[2024-04-08 02:28:21] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-08 02:28:24] [1] [INFO] [TestNG] Time taken by org.testng.internal.ExitCodeListener@60019f4b: 0 ms
+[2024-04-08 02:28:24] [1] [INFO] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@35537fe: 49 ms
+[2024-04-08 02:28:24] [1] [INFO] [TestNG] Time taken by org.testng.reporters.jq.Main@579351d1: 66 ms
+[2024-04-08 02:28:24] [1] [INFO] [TestNG] Time taken by org.testng.reporters.FailedReporter@7c095332: 18 ms
+[2024-04-08 02:28:24] [1] [INFO] [TestNG] Time taken by org.testng.reporters.XMLReporter@554bb231: 10 ms
+[2024-04-08 02:28:24] [1] [INFO] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@810d718: 7 ms
+[2024-04-08 02:28:24] [1] [INFO] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@283730de: 8 ms

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="utils.UserPreferenceMapper">
+
+	<insert id="create" useGeneratedKeys="true"
+		keyProperty="id">
+		<![CDATA[
+			INSERT INTO carinaframeworkdb.CUSTOMERSACCOUNTS (CUSTOMER_ID, ACCOUNT_ID)
+			VALUES (
+				353117681,
+			   	00716154321
+			)
+		]]>
+	</insert>
+
+	<sql id="getUserPreference">
+		<![CDATA[
+			SELECT
+				UP.CUSTOMER_ID AS CUSTOMER_ID,
+				UP.ACCOUNT_ID AS ACCOUNT_ID,
+				
+			FROM
+				carinaframeworkdb.CUSTOMERSACCOUNTS UP
+		]]>
+	</sql>
+
+	<select id="findById"
+		resultMap="UserPreferenceResultMap">
+		<include refid="getUserPreference" />
+		<![CDATA[
+			WHERE UP.ID = 35211708;
+		]]>
+	</select>
+
+	<resultMap type="utils.UserPreference"
+		id="UserPreferenceResultMap" autoMapping="false">
+		<id column="CUSTOMES_ID" property="id" />
+		<result column="ACCOUNT_ID" property="account_id" />
+		
+	</resultMap>
+
+</mapper>

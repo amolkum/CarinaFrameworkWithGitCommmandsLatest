@@ -1,0 +1,26 @@
+[2024-05-13 04:11:59] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-13 04:12:05] [34] [INFO] Starting driver session...
+[2024-05-13 04:12:08] [34] [INFO] Driver session started.
+[2024-05-13 04:12:08] [34] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-13 04:12:12] [34] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-13 04:12:12] [34] [INFO] Element clicked
+[2024-05-13 04:12:15] [34] [INFO] Element 'viewCartLink' is clicked.
+[2024-05-13 04:12:16] [34] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-13 04:12:16] [34] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-13 04:12:16] [34] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-13 04:12:16] [34] [INFO] Element clicked
+[2024-05-13 04:12:18] [34] [INFO] Element 'viewCartLink' is clicked.
+[2024-05-13 04:12:18] [34] [INFO] returned first but found 2 elements by locator: By.cssSelector: td[class='product-name'] a
+[2024-05-13 04:12:18] [34] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-13 04:12:18] [34] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-13 04:12:19] [34] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-13 04:12:19] [34] [INFO] Element clicked
+[2024-05-13 04:12:22] [34] [INFO] Element 'viewCartLink' is clicked.
+[2024-05-13 04:12:24] [34] [INFO] Element 'proceedToCheckOutBtnElement' is clicked.
+[2024-05-13 04:12:24] [34] [INFO] Keys 'demo' are sent to element 'billingFirstnameFld'.
+[2024-05-13 04:12:24] [34] [INFO] Keys 'user' are sent to element 'billingLastNameFld'.
+[2024-05-13 04:12:24] [34] [INFO] Keys '6300 Spring Creek' are sent to element 'billingAddressOneFld'.
+[2024-05-13 04:12:24] [34] [INFO] Keys 'Plano' are sent to element 'billingCityFld'.
+[2024-05-13 04:12:25] [34] [INFO] Keys '75024' are sent to element 'billingZipFld'.
+[2024-05-13 04:12:25] [34] [INFO] Keys 'ak@gmail.com' are sent to element 'billingEmailFld'.
+[2024-05-13 04:12:26] [34] [WARN] Reporting disabled: using no op test run registrar

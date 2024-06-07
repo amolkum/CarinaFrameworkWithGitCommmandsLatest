@@ -1,0 +1,10 @@
+[2024-05-28 12:36:41] [1] [INFO] Starting driver session...
+[2024-05-28 12:36:47] [1] [INFO] Driver session started.
+[2024-05-28 12:36:47] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-28 12:36:52] [1] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-28 12:36:52] [1] [INFO] Element clicked
+[2024-05-28 12:36:56] [1] [INFO] Element 'viewCartLink' is clicked.
+[2024-05-28 12:36:56] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-28 12:36:57] [1] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-28 12:36:57] [1] [INFO] Element clicked
+[2024-05-28 12:37:02] [1] [ERROR] FAIL: click - waitCondition for element 'viewCartLink (By.cssSelector: a[title='View cart'])' not satisfied!

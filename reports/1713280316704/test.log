@@ -1,0 +1,21 @@
+[2024-04-16 03:11:56] [34] [INFO] Starting driver session...
+[2024-04-16 03:11:59] [34] [INFO] Driver session started.
+[2024-04-16 03:11:59] [34] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-16 03:12:03] [34] [INFO] PASS: element 'storeLinkElement' is clicked.
+[2024-04-16 03:12:03] [34] [INFO] Element clicked
+[2024-04-16 03:12:06] [34] [INFO] PASS: element 'viewCartLink' is clicked.
+[2024-04-16 03:12:06] [34] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-16 03:12:06] [34] [INFO] PASS: element 'storeLinkElement' is clicked.
+[2024-04-16 03:12:07] [34] [INFO] Element clicked
+[2024-04-16 03:12:10] [34] [INFO] PASS: element 'viewCartLink' is clicked.
+[2024-04-16 03:12:10] [34] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-16 03:12:11] [34] [INFO] PASS: element 'storeLinkElement' is clicked.
+[2024-04-16 03:12:11] [34] [INFO] Element clicked
+[2024-04-16 03:12:14] [34] [INFO] PASS: element 'viewCartLink' is clicked.
+[2024-04-16 03:12:16] [34] [INFO] PASS: element 'proceedToCheckOutBtnElement' is clicked.
+[2024-04-16 03:12:16] [34] [INFO] PASS: keys 'demo' are sent to element 'billingFirstnameFld'.
+[2024-04-16 03:12:16] [34] [INFO] PASS: keys 'user' are sent to element 'billingLastNameFld'.
+[2024-04-16 03:12:16] [34] [INFO] PASS: keys '6300 Spring Creek' are sent to element 'billingAddressOneFld'.
+[2024-04-16 03:12:17] [34] [INFO] PASS: keys 'Plano' are sent to element 'billingCityFld'.
+[2024-04-16 03:12:17] [34] [INFO] PASS: keys '75024' are sent to element 'billingZipFld'.
+[2024-04-16 03:12:17] [34] [INFO] PASS: keys 'ak@gmail.com' are sent to element 'billingEmailFld'.

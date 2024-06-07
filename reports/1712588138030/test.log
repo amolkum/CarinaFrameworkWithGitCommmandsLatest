@@ -1,0 +1,58 @@
+[2024-04-08 02:55:37] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2024-04-08 02:55:38] [1] [INFO] [TestNG] Running:
+  C:\Users\amol.kumbhare\AppData\Local\Temp\testng-eclipse--592117660\testng-customsuite.xml
+
+[2024-04-08 02:55:38] [1] [INFO] [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+[2024-04-08 02:55:43] [1] [INFO] Starting driver session...
+[2024-04-08 02:55:46] [1] [INFO] Driver session started.
+[2024-04-08 02:55:46] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-08 02:55:50] [1] [INFO] PASS: element 'storeLinkElement' is clicked.
+[2024-04-08 02:55:50] [1] [INFO] Element clicked
+[2024-04-08 02:55:53] [1] [INFO] PASS: element 'viewCartLink' is clicked.
+[2024-04-08 02:55:53] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-08 02:55:54] [1] [INFO] PASS: element 'storeLinkElement' is clicked.
+[2024-04-08 02:55:54] [1] [INFO] Element clicked
+[2024-04-08 02:55:55] [1] [INFO] PASS: element 'viewCartLink' is clicked.
+[2024-04-08 02:55:55] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-04-08 02:55:56] [1] [INFO] PASS: element 'storeLinkElement' is clicked.
+[2024-04-08 02:55:56] [1] [INFO] Element clicked
+[2024-04-08 02:55:57] [1] [INFO] PASS: element 'viewCartLink' is clicked.
+[2024-04-08 02:55:59] [1] [INFO] PASS: element 'proceedToCheckOutBtnElement' is clicked.
+[2024-04-08 02:55:59] [1] [INFO] PASS: element 'placeOrderBtn' is clicked.
+[2024-04-08 02:56:05] [1] [ERROR] FAIL: get_text - waitCondition for element 'noticeTxt (By.cssSelector: .woocommerce-notice)' not satisfied!
+[2024-04-08 02:56:07] [1] [INFO] [TestNG] Time taken by org.testng.internal.ExitCodeListener@7aaa4694: 0 ms
+[2024-04-08 02:56:07] [1] [INFO] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@145f22cf: 63 ms
+[2024-04-08 02:56:07] [1] [INFO] [TestNG] Time taken by org.testng.reporters.jq.Main@42f814cd: 86 ms
+[2024-04-08 02:56:07] [1] [INFO] [TestNG] Time taken by org.testng.reporters.FailedReporter@594c8879: 17 ms
+[2024-04-08 02:56:07] [1] [INFO] [TestNG] Time taken by org.testng.reporters.XMLReporter@4bb44322: 9 ms
+[2024-04-08 02:56:07] [1] [INFO] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@31a89b54: 7 ms
+[2024-04-08 02:56:07] [1] [INFO] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3cf6f3aa: 9 ms

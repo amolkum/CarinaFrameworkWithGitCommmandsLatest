@@ -1,0 +1,27 @@
+[2024-05-13 02:21:46] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-13 02:21:52] [34] [INFO] Starting driver session...
+[2024-05-13 02:21:55] [34] [INFO] Driver session started.
+[2024-05-13 02:21:55] [34] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-13 02:22:00] [34] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-13 02:22:00] [34] [INFO] Element clicked
+[2024-05-13 02:22:03] [34] [INFO] Element 'viewCartLink' is clicked.
+[2024-05-13 02:22:03] [34] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-13 02:22:03] [34] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-13 02:22:04] [34] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-13 02:22:04] [34] [INFO] Element clicked
+[2024-05-13 02:22:05] [34] [INFO] Element 'viewCartLink' is clicked.
+[2024-05-13 02:22:05] [34] [INFO] returned first but found 2 elements by locator: By.cssSelector: td[class='product-name'] a
+[2024-05-13 02:22:06] [34] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-13 02:22:06] [34] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-13 02:22:06] [34] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-13 02:22:06] [34] [INFO] Element clicked
+[2024-05-13 02:22:08] [34] [INFO] Element 'viewCartLink' is clicked.
+[2024-05-13 02:22:10] [34] [INFO] Element 'proceedToCheckOutBtnElement' is clicked.
+[2024-05-13 02:22:10] [34] [INFO] Keys 'demo' are sent to element 'billingFirstnameFld'.
+[2024-05-13 02:22:10] [34] [INFO] Keys 'user' are sent to element 'billingLastNameFld'.
+[2024-05-13 02:22:11] [34] [INFO] Keys '6300 Spring Creek' are sent to element 'billingAddressOneFld'.
+[2024-05-13 02:22:11] [34] [INFO] Keys 'Plano' are sent to element 'billingCityFld'.
+[2024-05-13 02:22:11] [34] [INFO] Keys '75024' are sent to element 'billingZipFld'.
+[2024-05-13 02:22:11] [34] [INFO] Keys 'ak@gmail.com' are sent to element 'billingEmailFld'.
+[2024-05-13 02:22:12] [34] [INFO] Element 'placeOrderBtn' is clicked.
+[2024-05-13 02:22:14] [34] [WARN] Reporting disabled: using no op test run registrar

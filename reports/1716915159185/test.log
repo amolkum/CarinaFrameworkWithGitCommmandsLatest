@@ -1,0 +1,23 @@
+[2024-05-28 04:52:39] [1] [INFO] Starting driver session...
+[2024-05-28 04:52:45] [1] [INFO] Driver session started.
+[2024-05-28 04:52:45] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-28 04:52:49] [1] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-28 04:52:49] [1] [INFO] Element clicked
+[2024-05-28 04:52:54] [1] [INFO] Element 'viewCartLink' is clicked.
+[2024-05-28 04:52:55] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-28 04:52:55] [1] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-28 04:52:56] [1] [INFO] Element clicked
+[2024-05-28 04:52:58] [1] [INFO] Element 'viewCartLink' is clicked.
+[2024-05-28 04:52:58] [1] [INFO] returned first but found 2 elements by locator: By.cssSelector: td[class='product-name'] a
+[2024-05-28 04:53:08] [1] [INFO] INFO: opening url 'https://askomdch.com'
+[2024-05-28 04:53:08] [1] [INFO] Element 'storeLinkElement' is clicked.
+[2024-05-28 04:53:08] [1] [INFO] Element clicked
+[2024-05-28 04:53:10] [1] [INFO] Element 'viewCartLink' is clicked.
+[2024-05-28 04:53:12] [1] [INFO] Element 'proceedToCheckOutBtnElement' is clicked.
+[2024-05-28 04:53:12] [1] [INFO] Keys 'demo' are sent to element 'billingFirstnameFld'.
+[2024-05-28 04:53:12] [1] [INFO] Keys 'user' are sent to element 'billingLastNameFld'.
+[2024-05-28 04:53:13] [1] [INFO] Keys '6300 Spring Creek' are sent to element 'billingAddressOneFld'.
+[2024-05-28 04:53:13] [1] [INFO] Keys 'Plano' are sent to element 'billingCityFld'.
+[2024-05-28 04:53:13] [1] [INFO] Keys '75024' are sent to element 'billingZipFld'.
+[2024-05-28 04:53:13] [1] [INFO] Keys 'ak@gmail.com' are sent to element 'billingEmailFld'.
+[2024-05-28 04:53:14] [1] [INFO] Element 'placeOrderBtn' is clicked.

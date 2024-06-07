@@ -1,0 +1,7 @@
+[2024-05-13 01:27:44] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-05-13 01:27:44] [1] [INFO] [TestNG] Running:
+  C:\Users\amol.kumbhare\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+[2024-05-13 01:27:49] [1] [INFO] Starting driver session...
+[2024-05-13 01:27:54] [1] [INFO] Driver session started.
+[2024-05-13 01:27:54] [1] [INFO] INFO: opening url 'https://askomdch.com'
